@@ -1,3 +1,8 @@
+*.csv
+*.feather
+*.h5
+*.hd5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
